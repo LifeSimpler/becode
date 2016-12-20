@@ -750,6 +750,10 @@ footer {
   background: transparent url('../images/hr.png') 0 0 no-repeat;
 }
 
+#becodehighlight {
+  color: #63C3D1;
+}
+
 footer a {
   color: #666;
 }
