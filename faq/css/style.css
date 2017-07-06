@@ -179,14 +179,14 @@ header h1 {
     left: 0;
     height: 100%;
     width: 3px;
-    background-color: #16232E;
+    background-color: #63C3D1;
     opacity: 0;
     -webkit-transition: opacity 0.2s;
     -moz-transition: opacity 0.2s;
     transition: opacity 0.2s;
   }
   .cd-faq-categories .selected {
-    background: #63C3D1 !important;
+    background: #16232E !important;
   }
   .cd-faq-categories .selected::before {
     opacity: 1;
