@@ -179,7 +179,7 @@ header h1 {
     left: 0;
     height: 100%;
     width: 3px;
-    background-color: #a9c056;
+    background-color: #16232E;
     opacity: 0;
     -webkit-transition: opacity 0.2s;
     -moz-transition: opacity 0.2s;
@@ -392,7 +392,7 @@ header h1 {
     top: 50%;
     height: 2px;
     width: 13px;
-    background: #cfdca0;
+    background: #16232E;
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     -webkit-transition-property: -webkit-transform;
