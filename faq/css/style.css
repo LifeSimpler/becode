@@ -186,7 +186,7 @@ header h1 {
     transition: opacity 0.2s;
   }
   .cd-faq-categories .selected {
-    background: #42464b !important;
+    background: #63C3D1 !important;
   }
   .cd-faq-categories .selected::before {
     opacity: 1;
