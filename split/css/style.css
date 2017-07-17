@@ -17,6 +17,10 @@ html, body {
   background-color: #16232E;
 }
 
+.partner-side {
+  background-color: #FFFFFF;
+}
+
 .split-pane {
   padding-top: 1em;
   background-size: cover;
