@@ -56,7 +56,7 @@ html, body {
 .split-pane > div img {
   height: 1.3em;
 }
-.split-pane button, .split-pane a.button {
+button, a.button {
   font-family: "Montserrat";
   background: none;
   border: 1px solid white;
@@ -74,7 +74,7 @@ html, body {
   color: white;
   display: inline-block;
 }
-.split-pane button:hover, .split-pane a.button:hover {
+button:hover, a.button:hover {
   text-decoration: none;
   background-color: white;
   color: #eb3650;
