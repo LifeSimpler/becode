@@ -23,6 +23,7 @@ html, body {
 
 .split-pane {
   padding-top: 1em;
+  padding-bottom: 1em;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -35,6 +36,7 @@ html, body {
 @media(min-width: 500px) {
   .split-pane {
     padding-top: 2em;
+    padding-bottom: 2em;
     height: 100%;
   }
 }
