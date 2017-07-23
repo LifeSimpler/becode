@@ -123,12 +123,12 @@ html, body {
   top: 0.5em;
   color: white;
   font-family: "Montserrat";
-  font-size: 1.4em;
+  font-size: 1.2em;
 }
 @media(min-width: 500px) {
   #slogan {
     top: 5%;
-    font-size: 1.8em;
+    font-size: 1.4em;
   }
 }
 #slogan img {
