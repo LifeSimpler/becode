@@ -134,6 +134,10 @@ html, body {
 #slogan img {
   height: 0.7em;
 }
+#slogan a:link, a:visited, a:hover, a:active {
+  color: white;
+  text-decoration: none;
+}
 
 #partners {
   position: absolute;
